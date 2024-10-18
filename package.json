@@ -1,0 +1,17 @@
+{
+  "name": "technigo-project-pizzabot",
+  "version": "1.0.0",
+  "description": "Replace this readme with your own information about the project. You can include things like:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    {
+  "scripts": {
+    "build": "npm run build"
+  }
+}
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
